@@ -1,4 +1,4 @@
-# Arya Kumalajati — Engineering Portfolio
+# Arya Kumalajati — Engineering Portfolio (Under Construction)
 
 A responsive engineering portfolio built with **Next.js App Router**, **TypeScript**, **Tailwind CSS v4**, and **Lucide icons**.
 
