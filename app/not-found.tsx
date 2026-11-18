@@ -1,0 +1,3 @@
+import Link from "next/link";
+import { ArrowLeft } from "lucide-react";
+export default function NotFound(){return <main id="main" className="site-shell flex min-h-[65vh] flex-col justify-center py-26"><div className="eyebrow">404 / Not found</div><h1 className="mt-6 text-[clamp(55px,8vw,110px)] font-bold tracking-[-.07em]">Lost signal<span className="text-acid">.</span></h1><p className="mt-4 max-w-[450px] leading-7 text-dim">That project page doesn&apos;t exist. Head back to the portfolio and explore what&apos;s there.</p><Link href="/" className="button-primary mt-8 w-fit"><ArrowLeft size={17}/> Return home</Link></main>}
